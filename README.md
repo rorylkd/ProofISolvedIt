@@ -1,40 +1,47 @@
-# 🐛 Implement Modules
+   # 123
 
-Work with a partner to resolve the following issue(s):
+    ## Table of COntents
+    1. [Description](#description)
+    2. [Installation](#installation)
+    3. [Usage](#usage)
+    4. [Collaborators](#collaborators)
+    5. [License](#license)
+    6. [Contributions(#contributions)
+    7. [Tests](#tests)
+    * [Contact Info](#contact)
 
-* Users should be able to import and use the `maths.js` module to execute simple math operations.
+  
+    ## Description <a name="description"><a/>
 
-## Expected Behavior
+  123
 
-* When I run `node index.js sum 3 4` in the command line, it should print out `7`
+    ## Installation <a name="installation"><a/>
 
-* When I run `node index.js difference 3 4` in the command line, it should print out `-1`
+    123
 
-* When I run `node index.js product 3 4` in the command line, it should print out `12`
+    ## Usage <a name="usage"><a/>
 
-* When I run `node index.js quotient 3 4` in the command line, it should print out `0.75`
+    123
 
-## Actual Behavior
+    ## Credits <a name="collaborators"><a/>
 
-* Nothing happens when I run the commands because the `index.js` file is empty
+    1
 
-## Steps to Reproduce the Problem
+    ## License <a name="license"><a/>
 
-1. Navigate to the `Unsolved` folder in the command line.
+    Mozilla Public License 2.0
 
-2. Run `node index.js sum 3 4` in the command line.
+    ## How to Contribute <a name="contributions"><a/>
 
-## 💡 Hints
+    123
 
-What will the `parseInt()` method allow us to do?
+    ## Tests <a name="tests"><a/>
 
-## 🏆 Bonus
+    123
 
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
+    ## Questions <a name="contact"><a/>
 
-* How can you export functions and objects directly?
+    Please send any inquiries to:
 
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+    Github:1
+    1
